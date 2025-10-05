@@ -39,8 +39,8 @@ Projeto/
 └── README.md
 💡 Sobre o desenvolvimento
 
-O projeto foi criado com foco em design limpo, responsividade e boas práticas de código.
-Serve como uma base para aplicações React completas com integração entre frontend e backend.
+O Projeto Selecta foi criado com foco em design limpo, responsividade e boas práticas de código.
+Desenvolvido como parte do meu portfólio pessoal e também como um meio de aperfeiçoar meus conhecimentos na área de desenvolvimento web, o projeto serve como base para aplicações React completas, com integração entre frontend e backend.
 👨‍💻 Autor
 
 Desenvolvido por Natan Araújo de Medeiros
