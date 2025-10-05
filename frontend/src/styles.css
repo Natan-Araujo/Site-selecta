@@ -1,0 +1,32 @@
+body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f7f7f7; color: #333; }
+.landing { background: linear-gradient(90deg,#6c5ce7,#00b894); color: white; padding: 2rem; text-align: center; }
+.app-root { max-width: 900px; margin: 1rem auto; padding: 1rem; }
+.jobs { display: grid; grid-template-columns: repeat(auto-fit,minmax(260px,1fr)); gap: 1rem; margin-top: 1rem; }
+.job-card { background: white; padding: 1rem; border-radius: 8px; box-shadow: 0 2px 6px rgba(0,0,0,0.08); }
+button { background: #0984e3; color: white; border: none; padding: 0.5rem 1rem; border-radius: 6px; cursor: pointer; }
+button:hover { opacity: 0.95; }
+/* Estilo da Topbar */
+.topbar {
+  background: #2d3436;
+  color: white;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.topbar h1 {
+  margin: 0;
+  font-size: 1.5rem;
+}
+
+.topbar nav a {
+  color: white;
+  margin-left: 1.5rem;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.topbar nav a:hover {
+  color: #00cec9;
+}
